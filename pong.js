@@ -16,7 +16,6 @@ class Vector
     this.y *= fact;
   }
 }
-//kk
 class Rectangle
 {
   constructor(w, h)
